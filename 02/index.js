@@ -11,7 +11,7 @@ fs.writeFile(path.join(__dirname, "reply.txt"), "Nice to meet you", (err) => {
   console.log("Write complete");
 });
 
-fs.appendFile(path.join(__dirname, "test.txt"), "Testing test", (err) => {
+fs.appendFile(path.join(__dirname, "test.txt"), "Brian test", (err) => {
   if (err) throw err;
   console.log("Append complete");
 });
