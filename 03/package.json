@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "date-fns": "^2.29.3"
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
   },
   "name": "03",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "dev": "nodemon"
+    "dev": "nodemon index "
   },
   "author": "",
   "license": "ISC",

@@ -1,3 +1,18 @@
-const { format } = require("date-fns");
+const logEvents = require("./logEvents");
 
-console.log(format(new Date(), "yyyyMMdd\tHH:mm:ss"));
+const EventEmmiter = require("events");
+
+class MyEmitter extends EventEmmiter {}
+
+// init the object
+
+const myEmitter = new MyEmitter();
+
+// add listener for the log event
+
+myEmitter.on("log", (msg) => logEvents(msg));
+
+setTimeout(() => {
+  // Emmit the event
+  myEmitter.emit("log", "Log event emittend!");
+}, 2000);
