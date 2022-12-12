@@ -1,0 +1,1 @@
+date:20221212	15:43:55	 id:06cf74f8-d336-4a4e-8d23-d86787291cbd message:TypeError	The argument '+' is invalid encoding. Received 'encoding'

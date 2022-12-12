@@ -1,0 +1,7 @@
+date:20221212	15:43:55	 id:9c2d9b04-a808-4a57-b539-9365e867e8fc message:/new-page	GET
+date:20221212	15:43:55	 id:978f876e-4e19-4bd4-b3ed-0534e7b20b6d message:/css/style.css	GET
+date:20221212	15:43:55	 id:3af73433-81cc-40be-a273-2cf20e4e2501 message:/img/img1.jpg	GET
+date:20221212	15:43:55	 id:9d06fbb1-e525-4afc-a131-33f943468181 message:/favicon.ico	GET
+date:20221212	15:44:34	 id:1b99dd81-9529-489c-b7af-999e48be8b59 message:/new-page	GET
+date:20221212	15:44:34	 id:3afd9fd1-d051-4475-836b-bdba775e9f25 message:/css/style.css	GET
+date:20221212	15:44:34	 id:026b5d5c-2438-4db9-a5bb-d92b9fc65526 message:/img/img1.jpg	GET
