@@ -1,1 +1,3 @@
-console.log("testing the nodemon global");
+const { format } = require("date-fns");
+
+console.log(format(new Date(), "yyyyMMdd\tHH:mm:ss"));
