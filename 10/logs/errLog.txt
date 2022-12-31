@@ -1,0 +1,14 @@
+20221231	06:46:09	7175e8d0-a858-403f-97bf-d177045416ab	TypeError: res.setStatus is not a function
+20221231	06:46:14	6920545a-43b7-4069-ae1c-9dd1486884c1	TypeError: res.setStatus is not a function
+20221231	06:46:15	aa25e8cb-42ff-464c-9483-75349983b5bc	TypeError: res.setStatus is not a function
+20221231	06:46:15	b9e52dd0-2b88-4ac3-bcc9-c7f405590b20	TypeError: res.setStatus is not a function
+20221231	06:46:16	1482bccf-04af-4e75-940e-87b7a2c25d5c	TypeError: res.setStatus is not a function
+20221231	06:46:16	23f8d99d-6c2c-4e83-ba4f-00e55a7f439e	TypeError: res.setStatus is not a function
+20221231	06:46:16	f66e30d5-7be6-488d-bd64-a0da8aedc8eb	TypeError: res.setStatus is not a function
+20221231	06:46:42	e6c6af27-d2c5-4141-a122-78d20984426e	TypeError: res.setStatus is not a function
+20221231	06:46:43	c4e73818-2e8b-4a58-bd11-5333155889de	TypeError: res.setStatus is not a function
+20221231	06:46:46	df42215a-82ed-4f25-a450-b778063b558f	TypeError: res.setStatus is not a function
+20221231	07:12:04	4ed9f299-5bed-4416-aa24-f3380e8c171c	ReferenceError: json is not defined
+20221231	11:57:24	30fc94be-50c2-465f-a43b-0e1a68560de5	TypeError: authHeader?.stratsWith is not a function
+20221231	11:57:50	fb549df0-6fce-4650-9386-2c7e242765e5	TypeError: authHeader?.stratsWith is not a function
+20221231	11:58:12	b59d1c31-ab2c-4ea4-99bc-15994bde40e2	TypeError: authHeader?.stratsWith is not a function
